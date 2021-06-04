@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Изображение геометрических фигур на плоскости при помощи графических редакторов
 
-You can use the [editor on GitHub](https://github.com/Artiom1212/Diplom-material-Graf/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Здесь представлены все основнные материалы по дипломной работе Шевцова Артёма Дмитриевича
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+(https://github.com/Artiom1212/Diplom-material-Graf/blob/main/Rastr.gif)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+img(Artiom1212.github.io/Diplom-material-Graf/images/Rastr.gif)
 
 ```markdown
 Syntax highlighted code block
