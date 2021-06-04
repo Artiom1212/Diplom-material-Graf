@@ -5,10 +5,10 @@
 При построении мы не может зять любой попавшийся графический редактор, нам необходима точность в наших построениях поэтому мы будем использовать графический редактор с веторным типоп графики, почему? На левом изображении представлен растровый вид графики на правом веторный.
 <table cols=2>
   <tr>
-    <td><img src="https://github.com/Artiom1212/Diplom-material-Graf/blob/main/Rastr.gif"></td>
+    <td><img src="https://github.com/Artiom1212/Diplom-material-Graf/blob/main/Rastr.gif?raw=true"></td>
     <td><img src="https://github.com/Artiom1212/Diplom-material-Graf/blob/main/Vectr.gif"></td>
   </tr>
 </table>
 <img src="https://github.com/Artiom1212/Diplom-material-Graf/blob/main/Vectr.gif">
-
+![git logo](https://github.com/Artiom1212/Diplom-material-Graf/blob/main/Vectr.gif)
 
