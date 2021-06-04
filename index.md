@@ -9,6 +9,5 @@
     <td><img src="https://github.com/Artiom1212/Diplom-material-Graf/blob/main/Vectr.gif?raw=true"></td>
   </tr>
 </table>
-<img src="https://github.com/Artiom1212/Diplom-material-Graf/blob/main/Vectr.gif">
-![git logo](https://github.com/Artiom1212/Diplom-material-Graf/blob/main/Vectr.gif)
+
 
