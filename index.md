@@ -2,9 +2,10 @@
 
 Здесь представлены все основнные материалы по дипломной работе Шевцова Артёма Дмитриевича
 
-(https://github.com/Artiom1212/Diplom-material-Graf/blob/main/Rastr.gif)
+При построении мы не может зять любой попавшийся графический редактор, нам необходима точность в наших построениях поэтому мы будем использовать графический редактор с веторным типоп графики, почему? На левом изображении представлен растровый вид графики на правом веторный.
 
-img(Artiom1212.github.io/Diplom-material-Graf/images/Rastr.gif)
+![GitHub Logo](https://github.com/Artiom1212/Diplom-material-Graf/blob/main/Rastr.gif)
+![GitHub Logo](https://github.com/Artiom1212/Diplom-material-Graf/blob/main/Vectr.gif)
 
 ```markdown
 Syntax highlighted code block
