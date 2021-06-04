@@ -1,4 +1,6 @@
 ## Изображение геометрических фигур на плоскости при помощи графических редакторов
+<link rel="stylesheet" type="text/css" href="style.css">
+<meta charset="utf-8">
 <meta property="og:locale" content="ru_RU" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Геометрические построения" />
@@ -32,3 +34,39 @@
     <td><img src="https://github.com/Artiom1212/Diplom-material-Graf/blob/main/%D0%9F%D0%B5%D1%80%D0%BE.gif?raw=true"></td>
   </tr>
   </table>
+  
+  <div class="all">
+		<input checked type="radio" name="respond" id="desktop">
+			<article id="slider">
+					<input checked type="radio" name="slider" id="switch1">
+					<input type="radio" name="slider" id="switch2">
+					<input type="radio" name="slider" id="switch3">
+					<input type="radio" name="slider" id="switch4">
+					<input type="radio" name="slider" id="switch5">
+				<div id="slides">
+					<div id="overflow">
+						<div class="image">
+							<article><img src="1.jpg"></article>
+							<article><img src="2.jpg"></article>
+							<article><img src="3.jpg"></article>
+							<article><img src="4.jpg"></article>
+							<article><img src="5.jpg"></article>
+						</div>
+					</div>
+				</div>
+				<div id="controls">
+					<label for="switch1"></label>
+					<label for="switch2"></label>
+					<label for="switch3"></label>
+					<label for="switch4"></label>
+					<label for="switch5"></label>
+				</div>
+				<div id="active">
+					<label for="switch1"></label>
+					<label for="switch2"></label>
+					<label for="switch3"></label>
+					<label for="switch4"></label>
+					<label for="switch5"></label>
+				</div>
+			</article>
+	</div>
