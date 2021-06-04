@@ -66,6 +66,3 @@
 		<td><img src="https://github.com/Artiom1212/Diplom-material-Graf/blob/main/%D0%9E%D0%9F9(1).gif?raw=true"></td>
 	</tr>
 </table>
-	
-<video controls loop src="https://youtu.be/N4t6ajWjhDE"></video>
-![Watch the video](https://youtu.be/N4t6ajWjhDE)
