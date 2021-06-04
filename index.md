@@ -15,7 +15,7 @@
 
 Здесь представлены все основнные материалы по дипломной работе Шевцова Артёма Дмитриевича
 
-<p align="justify">При построении мы не может зять любой попавшийся графический редактор, нам необходима точность в наших построениях поэтому мы будем использовать графический редактор с веторным типоп графики, почему? Для наглядности расмотрим на примере: на левом изображении представлен растровый вид графики на правом веторный.
+<p align="justify">При построении мы не может взять любой попавшийся графический редактор, нам необходима точность в наших построениях поэтому мы будем использовать графический редактор с веторным типоп графики, почему? Для наглядности расмотрим на примере: на левом изображении представлен растровый вид графики на правом веторный.
 	</p>
 <table cols=2>
   <tr>
@@ -40,3 +40,21 @@
   <p align="justify">
   Но ни только вид графики и инстументы играют роль, нас также надо точно знать, а можем ли мы производить теже самые построения, которые мы производим при помощи иркуля и линейки, на холсте состоящем из 0 и 1. Для этого посмотрим на основные построения, выполненые в графическо рдакторе.
 </p>
+<table cols=3>
+	<tr>
+		<td><img src="https://github.com/Artiom1212/Diplom-material-Graf/blob/main/%D0%9E%D0%9F1.gif?raw=true"></td>
+		<td><img src="https://github.com/Artiom1212/Diplom-material-Graf/blob/main/%D0%9E%D0%9F2.gif?raw=true"></td>
+		<td><img src="https://github.com/Artiom1212/Diplom-material-Graf/blob/main/%D0%9E%D0%9F3.gif?raw=true"></td>
+	</tr>
+	<tr>
+		<td><img src="https://github.com/Artiom1212/Diplom-material-Graf/blob/main/%D0%9E%D0%9F4.gif?raw=true"></td>
+		<td><img src="https://github.com/Artiom1212/Diplom-material-Graf/blob/main/%D0%9E%D0%9F5.gif?raw=true"></td>
+		<td><img src="https://github.com/Artiom1212/Diplom-material-Graf/blob/main/%D0%9E%D0%9F6.gif?raw=true"></td>
+	</tr>
+	<tr>
+		<td><img src="https://github.com/Artiom1212/Diplom-material-Graf/blob/main/%D0%9E%D0%9F7.gif?raw=true"></td>
+		<td><img src="https://github.com/Artiom1212/Diplom-material-Graf/blob/main/%D0%9E%D0%9F8.gif?raw=true"></td>
+		<td><img src="https://github.com/Artiom1212/Diplom-material-Graf/blob/main/%D0%9E%D0%9F9(1).gif?raw=true"></td>
+	</tr>
+</table>
+	
