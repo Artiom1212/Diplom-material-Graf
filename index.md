@@ -15,14 +15,17 @@
 
 Здесь представлены все основнные материалы по дипломной работе Шевцова Артёма Дмитриевича
 
-При построении мы не может зять любой попавшийся графический редактор, нам необходима точность в наших построениях поэтому мы будем использовать графический редактор с веторным типоп графики, почему? На левом изображении представлен растровый вид графики на правом веторный.
+<p align="justify">При построении мы не может зять любой попавшийся графический редактор, нам необходима точность в наших построениях поэтому мы будем использовать графический редактор с веторным типоп графики, почему? Для наглядности расмотрим на примере: на левом изображении представлен растровый вид графики на правом веторный.
+	</p>
 <table cols=2>
   <tr>
     <td><img src="https://github.com/Artiom1212/Diplom-material-Graf/blob/main/Rastr.gif?raw=true"></td>
     <td><img src="https://github.com/Artiom1212/Diplom-material-Graf/blob/main/Vectr.gif?raw=true"></td>
   </tr>
 </table>
+<p align="justify">
 Также на интересует наличие определёных "инструментов", а именно: ножницы для разделения фигуры по контуре; свойства для тонкой настройки наших фигур; текст для создания названий точек; перо для создания плавных линий;
+</p>
 
 <table cols=2>
   <tr>
@@ -34,39 +37,6 @@
     <td><img src="https://github.com/Artiom1212/Diplom-material-Graf/blob/main/%D0%9F%D0%B5%D1%80%D0%BE.gif?raw=true"></td>
   </tr>
   </table>
-  
-  <div class="all">
-		<input checked type="radio" name="respond" id="desktop">
-			<article id="slider">
-					<input checked type="radio" name="slider" id="switch1">
-					<input type="radio" name="slider" id="switch2">
-					<input type="radio" name="slider" id="switch3">
-					<input type="radio" name="slider" id="switch4">
-					<input type="radio" name="slider" id="switch5">
-				<div id="slides">
-					<div id="overflow">
-						<div class="image">
-							<article><img src="1.jpg"></article>
-							<article><img src="2.jpg"></article>
-							<article><img src="3.jpg"></article>
-							<article><img src="4.jpg"></article>
-							<article><img src="5.jpg"></article>
-						</div>
-					</div>
-				</div>
-				<div id="controls">
-					<label for="switch1"></label>
-					<label for="switch2"></label>
-					<label for="switch3"></label>
-					<label for="switch4"></label>
-					<label for="switch5"></label>
-				</div>
-				<div id="active">
-					<label for="switch1"></label>
-					<label for="switch2"></label>
-					<label for="switch3"></label>
-					<label for="switch4"></label>
-					<label for="switch5"></label>
-				</div>
-			</article>
-	</div>
+  <p align="justify">
+  Но ни только вид графики и инстументы играют роль, нас также надо точно знать, а можем ли мы производить теже самые построения, которые мы производим при помощи иркуля и линейки, на холсте состоящем из 0 и 1. Для этого посмотрим на основные построения, выполненые в графическо рдакторе.
+</p>
