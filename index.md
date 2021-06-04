@@ -68,4 +68,4 @@
 </table>
 	
 <video controls loop src="https://youtu.be/N4t6ajWjhDE"></video>
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/N4t6ajWjhDE)
+![Watch the video](https://youtu.be/N4t6ajWjhDE)
