@@ -6,7 +6,7 @@
 <table cols=2 rows=2 width=100%>
   <tr>
     <td><img src="https://github.com/Artiom1212/Diplom-material-Graf/blob/main/Rastr.gif?raw=true"></td>
-    <td><img src="https://github.com/Artiom1212/Diplom-material-Graf/blob/main/Vectr.gif"></td>
+    <td><img src="https://github.com/Artiom1212/Diplom-material-Graf/blob/main/Vectr.gif?raw=true"></td>
   </tr>
 </table>
 <img src="https://github.com/Artiom1212/Diplom-material-Graf/blob/main/Vectr.gif">
