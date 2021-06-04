@@ -2,6 +2,14 @@
 <meta property="og:locale" content="ru_RU" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Геометрические построения" />
+<meta property="og:description" content="Данный сайт содержит материалы по дипломной работе" />
+<meta property="og:url" content="https://artiom1212.github.io/Diplom-material-Graf/" />
+<meta property="og:site_name" content="Diplom-material-Graf" />
+<meta property="article:published_time" content="2021-06-04T06:01:31+00:00" />
+<meta property="article:modified_time" content="2021-06-04T18:33:05+00:00" />
+<meta property="og:image" content="https://github.com/Artiom1212/Diplom-material-Graf/blob/main/%D0%9E%D0%9F8.gif?raw=true" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
 
 Здесь представлены все основнные материалы по дипломной работе Шевцова Артёма Дмитриевича
 
